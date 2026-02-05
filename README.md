@@ -6,22 +6,6 @@ The focus is on understanding what actually happens behind the scenes — render
 
 ---
 
-## 📌 Why this project exists
-
-Many developers jump directly to high-level libraries without understanding the fundamentals.  
-This project is built to strengthen core engineering concepts such as:
-
-- Manual Three.js setup inside React
-- Proper use of `useEffect` and `useRef`
-- Separation of React state and Three.js objects
-- Memory management and cleanup
-- Interaction using raycasting
-- Camera and renderer synchronization
-
-Once these fundamentals are clear, libraries like React Three Fiber become easy and intentional.
-
----
-
 ## 🧠 Core Principles Followed
 
 - **React State** → UI logic and interaction decisions  
