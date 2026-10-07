@@ -13,7 +13,7 @@ The focus is on understanding what actually happens behind the scenes — render
 - **No recreation of Three.js objects on re-render**
 - **Manual animation loop using `requestAnimationFrame`**
 - **Explicit cleanup to avoid GPU memory leaks**
-
+========
 ---
 
 ## 🚀 Features Implemented
